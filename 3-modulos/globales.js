@@ -1,4 +1,5 @@
 // console.log(global);
+// console.log(process);
 
 // let i = 0;
 
@@ -11,4 +12,15 @@
 //     i++;
 // }, 1000);
 
-console.log(__dirname);
+// console.log(__dirname);
+
+
+
+// !SET IMMEDIATE
+// setImmediate( function() {
+//     console.log('Hola');
+// });
+
+// ! __filename
+
+console.log(__filename);
